@@ -1,4 +1,4 @@
-package database.conexao;
+package br.com.truco.database.conexao;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

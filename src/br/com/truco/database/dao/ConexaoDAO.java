@@ -1,9 +1,9 @@
-package database.dao;
+package br.com.truco.database.dao;
 
 import java.sql.Connection;
 import java.sql.SQLException;
 
-import database.conexao.Conexao;
+import br.com.truco.database.conexao.Conexao;
 
 public class ConexaoDAO {
     protected Connection conn;
