@@ -1,4 +1,4 @@
-package Truco.truco.view;
+package view;
 
 public class Intervalo {
     

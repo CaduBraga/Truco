@@ -1,4 +1,4 @@
-package Truco.truco.model;
+package model;
 
 public class Jogador {
     
