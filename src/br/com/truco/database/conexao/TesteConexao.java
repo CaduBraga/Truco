@@ -1,10 +1,10 @@
-package database.conexao;
+package br.com.truco.database.conexao;
 
 import java.sql.Connection;
 
 public class TesteConexao {
     public static void main(String[] args) {
-        try (Connection conn = Conexao.getConnection()) {
+        try (Connection conn = database.conexao.Conexao.getConnection()) {
             if (conn != null) {
                 System.out.println("✅ Conexão estabelecida com sucesso!");
             } else {
