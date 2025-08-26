@@ -1,6 +1,6 @@
-# Truco
+# br.com.truco.main.Truco
 
-![Truco](https://img.shields.io/badge/Projeto-Truco-blueviolet?style=flat-square)
+![br.com.truco.main.Truco](https://img.shields.io/badge/Projeto-Truco-blueviolet?style=flat-square)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Java Swing](https://img.shields.io/badge/Java_Swing-007396?style=flat-square&logo=java&logoColor=white)
 ![Banco de Dados](https://img.shields.io/badge/Banco_de_Dados-SQL-blue?style=flat-square)
@@ -9,16 +9,16 @@
 
 ## 🃏 Sobre o Projeto
 
-Projeto pessoal desenvolvido por **Carlos Eduardo Braga** e **Daniel Sismer** com o intuito de treinar habilidades de banco de dados, programação em Java e Java Swing, estruturação de projetos utilizando boas práticas de POO e versionamento. O projeto consiste em um programa que simula uma partida de Truco para 4 jogadores (duplas), incluindo lógica, interface gráfica e persistência.
+Projeto pessoal desenvolvido por **Carlos Eduardo Braga** e **Daniel Sismer** com o intuito de treinar habilidades de banco de dados, programação em Java e Java Swing, estruturação de projetos utilizando boas práticas de POO e versionamento. O projeto consiste em um programa que simula uma partida de br.com.truco.main.Truco para 4 jogadores (duplas), incluindo lógica, interface gráfica e persistência.
 
 ---
 
 ## 🚀 Funcionalidades
 
-- Simulação completa de partidas de Truco (4 jogadores, duplas)
+- Simulação completa de partidas de br.com.truco.main.Truco (4 jogadores, duplas)
 - Interface gráfica intuitiva com Java Swing
 - Gerenciamento de jogadores e pontuação
-- Regras, distribuição de cartas e lógica do Truco implementadas
+- Regras, distribuição de cartas e lógica do br.com.truco.main.Truco implementadas
 - Persistência dos dados das partidas e jogadores em banco de dados
 
 ---
@@ -35,7 +35,7 @@ Projeto pessoal desenvolvido por **Carlos Eduardo Braga** e **Daniel Sismer** co
 ## 📂 Estrutura do Projeto
 
 ```
-Truco/
+br.com.truco.main.Truco/
 ├── src/
 │   ├── main/
 │   │   ├── java/
@@ -55,7 +55,7 @@ Truco/
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/CaduBraga/Truco.git
+   git clone https://github.com/CaduBraga/br.com.truco.main.Truco.git
    ```
 
 2. **Configure o banco de dados:**
@@ -105,4 +105,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull r
 ---
 
 > Projeto desenvolvido como prática de programação orientada a objetos, banco de dados e versionamento.<br>
-> Inspirado no tradicional jogo brasileiro **Truco** para aprendizado e diversão!
+> Inspirado no tradicional jogo brasileiro **br.com.truco.main.Truco** para aprendizado e diversão!
