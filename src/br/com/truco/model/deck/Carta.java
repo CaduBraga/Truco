@@ -42,9 +42,8 @@ public class Carta {
     }
     
     public int getValorTruco() {
-        // Valores das cartas no br.com.truco.main.Truco
         switch (numero) {
-            case 1: return 14; // Ás é a mais alta
+            case 1: return 14;
             case 2: return 13;
             case 3: return 12;
             case 4: return 11;
