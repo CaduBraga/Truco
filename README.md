@@ -2,11 +2,6 @@
 
 Um jogo de Truco completo desenvolvido em Java com interface gráfica Swing, criado como projeto de estudo em dupla.
 
-## Colaboradores
-
-- **@CaduBraga** - [GitHub](https://github.com/CaduBraga)
-- **@danielSismer** - [GitHub](https://github.com/danielSismer)
-
 ## Sobre o Projeto
 
 Este é um projeto pessoal desenvolvido com fins educacionais para aprender e praticar conceitos de programação orientada a objetos, interface gráfica e persistência de dados em Java.
